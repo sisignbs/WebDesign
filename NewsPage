@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>News Page</title>
+     <link href="NewsPage.css" rel="stylesheet" />
+</head>
+   
+<body>
+    <div id="newspage">
+    <nav>
+        <ul>
+            <li><a class="nav" href="#">Новини</a></li>
+            <li><a class="nav" href="#">Спорт</a></li>
+            <li><a class="nav" href="#">Емисии</a></li>
+            <li><a class="nav" href="#">Любопитно</a></li>
+            <li><a class="nav" href="#">Аз,репортерът</a></li>
+            <li><a class="nav" href="#">Тази сутрин</a></li>
+        </ul>
+        </nav>
+    <aside>
+        <a class="aside" href="#" style="padding-right: 68px;">
+        Интернет новини-13.07.2010г.
+        </a>
+        <hr/>
+        <a class="aside" href="#">
+        Проловни дъждове в Дания, Китай и Индия, необичайни горещини в Иран
+        </a>
+        <hr/>
+        <a class="aside" href="#">
+        Над 200 хектака горят на територията на бивш военен полигон в Германия
+        </a>
+        <hr/>
+        <a class="aside" href="#">
+        23-ма ранени при сблъсък на два пътнивески влака в Полша
+        </a>
+        <hr/>
+        <a class="aside" href="#">
+        Дефинират от догодина минималния осигурителен доход за самоосигуряващите се
+        </a>
+       
+    </aside>
+    <section>
+    <img src="newspic.png" alt="newspic" />
+        </section>
+        </div>
+
+</body>
+</html>
